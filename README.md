@@ -16,7 +16,8 @@ Excel
 • Latte and Cappuccino were top-selling products  
 
 ## Dashboard Preview
-(Add screenshot)
+<img width="1595" height="909" alt="image" src="https://github.com/user-attachments/assets/600f7ed0-6853-407f-8d5a-ae9787a22427" />
+
 
 ## Repository Contents
 - Dataset
